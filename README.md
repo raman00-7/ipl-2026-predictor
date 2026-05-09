@@ -23,7 +23,7 @@ A sleek, interactive web app to simulate and predict IPL 2026 playoff qualificat
 ### 1. Clone / Download
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ipl-2026-predictor.git
+git clone https://github.com/raman00-7/ipl-2026-predictor.git
 cd ipl-2026-predictor
 ```
 
